@@ -174,7 +174,8 @@
 	#bg {
 
 	/* Set your background with this */
-		background: #fc9985;
+		 background-image: url("digital-background-zeros-ones-green-black-63585209.jpg");
+   background-color: #cccccc;
 		height: 100%;
 		left: 0;
 		opacity: 1;
